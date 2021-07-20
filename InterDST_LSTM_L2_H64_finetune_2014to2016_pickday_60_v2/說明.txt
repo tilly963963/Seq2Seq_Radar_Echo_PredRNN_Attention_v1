@@ -1,0 +1,16 @@
+實驗二 (pretrain實驗一predrnn+雙重注意力機制模型 混合資料至2014~2019 凍結前面兩層)
+
+訓練資料:
+
+Pretrain模型:
+D:\yu_ting\133\InterDST_LSTM_L2_H64_2017to2019_pickday_checkpoint_pretrain
+model_itr8_test_cost19.654044920132474_ssim0.6412362613041935.pkl
+
+訓練最佳模型:
+model_itr7_test_cost26.142784616221547_ssim0.5924431505587958.pkl
+
+是否為其他Pretrain模型:
+是 使用model_itr7_test_cost26.142784616221547_ssim0.5924431505587958.pkl
+D:\yu_ting\120\idst\InterDST_LSTM_L2_H64_2014to2019_pickday_checkpoint_finetune_modify_loss_d4_v2
+ 
+

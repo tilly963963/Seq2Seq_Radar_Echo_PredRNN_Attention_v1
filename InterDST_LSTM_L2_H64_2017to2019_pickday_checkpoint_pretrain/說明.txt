@@ -1,0 +1,13 @@
+訓練資料:
+
+模型參數:
+四層 hidden=64
+沒有使用加權損失函數
+
+Pretrain模型:斷線'model_itr1_test_cost36.334702694268906_ssim0.5424945181764546.pkl'
+訓練最佳模型:model_itr5_test_cost24.530042104367837_ssim0.6238940755939906.pkl
+
+是否為其他Pretrain模型:
+是
+D:\yu_ting\120\idst\InterDST_LSTM_L2_H64_2017to2019_pickday_checkpoint_pretrain_loss_v2
+model_itr5_test_cost24.530042104367837_ssim0.6238940755939906
